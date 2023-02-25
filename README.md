@@ -1,5 +1,5 @@
 👋 Hi, I’m Kolade Amire
-and I am interested in Android apps development with Kotlin
+and I am interested in Android apps development with Kotlin, Ktor, and Spring Boot.
 
 How to reach me - stephamire@gmail.com
 
