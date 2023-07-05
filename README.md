@@ -1,5 +1,5 @@
 👋 Hi, I’m Kolade Amire
-and I am interested in  Spring Boot, Kotlin, Android and mobile apps development.
+and I am interested in  backend development (springboot, django), Kotlin & Android.
 
 How to reach me - stephamire@gmail.com
 
