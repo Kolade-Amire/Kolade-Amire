@@ -1,4 +1,5 @@
 👋 Hi, I’m Kolade Amire
+\n
 These are what I do:
 -Spring Boot with java
 -Android Native Mobile development(Kotlin).
