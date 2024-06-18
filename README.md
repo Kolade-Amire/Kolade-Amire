@@ -1,12 +1,8 @@
 👋 Hi, I’m Kolade Amire
 
-These are what I do:
+I love building stuff but even more than that is my love for learning.
 
-
--Spring Boot with java
-
-
--Android Native Mobile development(Kotlin).
+Spring is best! Java is best! Kotlin is gold!
 
 How to reach me - stephamire@gmail.com
 
