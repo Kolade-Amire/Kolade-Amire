@@ -1,9 +1,5 @@
 👋 Hi, I’m Kolade Amire
 
-I love building stuff but even more than that is my love for learning.
-
-Spring is best! Java is best! Kotlin is gold!
-
 How to reach me - stephamire@gmail.com
 
 <!---
