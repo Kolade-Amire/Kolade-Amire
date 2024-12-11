@@ -2,7 +2,7 @@
 Hi there, I'm Kolade Amire
 
 I'm:<br>
-- Java developer<br>-open to collaborations<br>-currently learning React and Devops engineering
+-a Java developer<br>-open to collaborations<br>-currently learning React and Devops engineering
 
 
 ## 🌐 Socials:
