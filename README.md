@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Kolade Amire
-
-I'm:<br>
--a Java developer<br>-open to collaborations<br>-currently learning React and Devops engineering
+-Java developer<br>-open to collaborations<br>-currently learning React and Devops engineering
 
 
 ## 🌐 Socials:
