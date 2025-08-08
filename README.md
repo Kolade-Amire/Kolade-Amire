@@ -9,7 +9,7 @@ Hi there, I'm Kolade Amire. I'm a Software Engineer exeperienced in:<br>
 <br>Email: stephamire@gmail.com
 
 # 💻 Tech Stack:
-Java, Spring Boot, TypeScript, NestJs, Go, AWS, Github Actions, Linux, Postgres, MongoDB, React/NextJs.
+Java, Spring Boot, TypeScript, NestJs, Go, AWS, Github Actions, Linux, Postgres, MongoDB, React/NextJs, Docker.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kolade-Amire&icon=0&color=0)](https://visitcount.itsvg.in)
