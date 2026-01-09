@@ -5,7 +5,6 @@ Hi there, I'm Kolade Amire. I'm a Software Engineer exeperienced in:<br>
 - DevOps practices and using modern cloud services
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kolade_am) 
 <br>Email: stephamire@gmail.com
 
 # 💻 Tech Stack:
